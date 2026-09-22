@@ -1,0 +1,4 @@
+Merhaba, ben Hakan Şimşek. Hacettepe Üniversitesi Yazılım Mühendisliği programında yüksek lisans öğrencisiyim.
+Şu anda bilimsel hazırlık öğrencisiyim. İnnova Bilişim'de İş Analisti olarak çalışıyorum.
+İş Analisti olarak çalıştığım projede BPMN'ler üzerindeki gateway'lerin java kodlarındaki karşılıklarını anlayabiliyorum.
+BBS515 dersi boyunca java programlama dilinde yetkinlik kazanıp üstüne koyarak devam etmeyi hedefliyorum.
